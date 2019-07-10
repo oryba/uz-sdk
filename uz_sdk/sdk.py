@@ -3,7 +3,7 @@ from urllib.parse import urljoin
 
 import requests
 
-from utils import compose
+from uz_sdk.utils import compose
 
 
 class BookingSession:

@@ -8,6 +8,11 @@ account.
 
 ## Quick start
 
+### Installation:
+`pip install UZ-SDK`
+
+### Usage
+
 ```python
 from datetime import time, datetime, timedelta
 
